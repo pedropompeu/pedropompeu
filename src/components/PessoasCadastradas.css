@@ -1,0 +1,74 @@
+.pessoas-cadastradas {
+    margin-top: 20px;
+  }
+  
+  .table-wrapper {
+    overflow-x: auto;
+  }
+  
+  .pessoas-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .pessoas-table th,
+  .pessoas-table td {
+    padding: 12px 15px;
+  }
+  
+  .pessoas-table thead {
+    background-color: #1a38579c;
+    color: #fff;
+  }
+  
+  .pessoas-table tbody tr {
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .pessoas-table tbody tr:nth-of-type(even) {
+    background-color: #2b2b2b;
+  }
+  
+  .pessoas-table tbody tr:last-of-type {
+    border-bottom: 2px solid #1a38579c;
+  }
+  
+  .btn-group {
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+  }
+  
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    color: #fff;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn.editar {
+    background-color: #00ffe581;
+  }
+  
+  .btn.editar:hover {
+    background-color: #225050;
+  }
+  
+  .btn.deletar {
+    background-color: #ff103c6e;
+  }
+  
+  .btn.deletar:hover {
+    background-color: #7b001050;
+  }
+  

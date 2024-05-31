@@ -4,7 +4,7 @@
     "module": "esnext",
     "baseUrl": "./",
     "moduleResolution": "node",
-    "paths": {
+    "paths": {  
       "@/*": [
         "src/*"
       ]
@@ -14,6 +14,19 @@
       "dom",
       "dom.iterable",
       "scripthost"
-    ]
-  }
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "allowUmdGlobalAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  },
+  
 }
