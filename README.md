@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  [💼 **Estou buscando emprego** • Aberto a oportunidades (Híbridas, Remotas ou Presenciais)](https://www.linkedin.com/in/pedro-pompeu/)
+  [💼 **Estou buscando emprego** • Aberto a oportunidades (Híbridas, Remotas ou Presenciais)](https://www.linkedin.com/in/pedropompeu/)
 </p>
 
 ---
@@ -64,11 +64,11 @@
 <h2 align="center">📫 Como me encontrar</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-pompeu/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedropompeu/" target="\_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:pedro.pompeu.dev@gmail.com" target="_blank">
+  <a href="mailto:pedro.pompeu.dev@gmail.com" target="\_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="E-mail" width="50" height="50"/>
   </a>
 </p>
