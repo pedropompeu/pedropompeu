@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 288" width="860" height="288" role="img" aria-label="Terminal: whoami — Pedro Pompeu, AI Engineer &amp; Full Stack Developer. Foco: agentes LLM, RAG, APIs Python, React/Angular. Hoje: produtos financeiros na Nexxees e cofundador da KreaKodo.">
+<title>Terminal: whoami — Pedro Pompeu, AI Engineer &amp; Full Stack Developer. Foco: agentes LLM, RAG, APIs Python, React/Angular. Hoje: produtos financeiros na Nexxees e cofundador da KreaKodo.</title>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.fy{animation:fy .5s ease-out both}@keyframes fy{from{opacity:0}}
+.ap{animation:ap .01s step-end both}@keyframes ap{from{opacity:0}}
+.pop{animation:pop .45s cubic-bezier(.2,.8,.2,1) both}@keyframes pop{from{opacity:0;transform:translateY(6px)}}
+.draw{stroke-dasharray:1;animation:draw linear both}@keyframes draw{from{stroke-dashoffset:1}}
+.grow{transform-box:fill-box;transform-origin:bottom;animation:grow .6s cubic-bezier(.2,.8,.2,1) both}@keyframes grow{from{transform:scaleY(0)}}
+.blink{animation:bl 1s step-end infinite}@keyframes bl{50%{opacity:0}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pu 2s ease-out infinite}@keyframes pu{from{transform:scale(1);opacity:.7}to{transform:scale(3.2);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.ty0{transform:translateX(54.7px);animation:ty0 0.42s steps(6,end) 0.50s both}@keyframes ty0{from{transform:translateX(0)}to{transform:translateX(54.7px)}}.cu0{opacity:0;animation:cu0 0.77s step-end 0.50s forwards}@keyframes cu0{from{opacity:1}99%{opacity:1}to{opacity:0}}.ty1{transform:translateX(105.4px);animation:ty1 0.84s steps(12,end) 1.72s both}@keyframes ty1{from{transform:translateX(0)}to{transform:translateX(105.4px)}}.cu1{opacity:0;animation:cu1 1.19s step-end 1.72s forwards}@keyframes cu1{from{opacity:1}99%{opacity:1}to{opacity:0}}.ty2{transform:translateX(54.7px);animation:ty2 0.42s steps(6,end) 3.36s both}@keyframes ty2{from{transform:translateX(0)}to{transform:translateX(54.7px)}}.cu2{opacity:0;animation:cu2 0.77s step-end 3.36s forwards}@keyframes cu2{from{opacity:1}99%{opacity:1}to{opacity:0}}</style>
+<rect x=".5" y=".5" width="859" height="287" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5,30 V12.5 a12,12 0 0 1 12,-12 H847.5 a12,12 0 0 1 12,12 V30 Z" fill="#161b22"/>
+<line x1="1" y1="30" x2="859" y2="30" stroke="#30363d"/>
+<circle cx="20" cy="15.5" r="5.5" fill="#ff5f57"/><circle cx="38" cy="15.5" r="5.5" fill="#febc2e"/><circle cx="56" cy="15.5" r="5.5" fill="#28c840"/>
+<text class="m" x="430.0" y="20" font-size="11.5" fill="#6e7681" text-anchor="middle">pedro@pompeu: ~</text>
+<g class="ap" style="animation-delay:0.50s"><text class="m" x="28" y="66" font-size="14" fill="#2dd4bf">$</text>
+<text class="m" x="44.9" y="66" font-size="14" fill="#e6edf3">whoami</text>
+<g class="ty0"><rect x="43.9" y="51" width="66.69999999999999" height="21" fill="#0d1117"/><rect class="cu0" x="44.9" y="53" width="8.5" height="17" fill="#2dd4bf"/></g></g>
+<text class="fy" style="animation-delay:1.27s" x="28" y="94" font-size="19" font-weight="700" fill="#e6edf3">Pedro Pompeu <tspan fill="#6e7681" font-weight="400">—</tspan> <tspan fill="#2dd4bf">AI Engineer</tspan> &amp; Full Stack Developer</text>
+<g class="ap" style="animation-delay:1.72s"><text class="m" x="28" y="130" font-size="14" fill="#2dd4bf">$</text>
+<text class="m" x="44.9" y="130" font-size="14" fill="#e6edf3">cat foco.txt</text>
+<g class="ty1"><rect x="43.9" y="115" width="117.39999999999999" height="21" fill="#0d1117"/><rect class="cu1" x="44.9" y="117" width="8.5" height="17" fill="#2dd4bf"/></g></g>
+<text class="m fy" style="animation-delay:2.91s" x="28" y="155" font-size="14" fill="#c9d1d9"><tspan fill="#6e7681">→ </tspan>agentes LLM · RAG · APIs Python · React/Angular</text>
+<g class="ap" style="animation-delay:3.36s"><text class="m" x="28" y="194" font-size="14" fill="#2dd4bf">$</text>
+<text class="m" x="44.9" y="194" font-size="14" fill="#e6edf3">status</text>
+<g class="ty2"><rect x="43.9" y="179" width="66.69999999999999" height="21" fill="#0d1117"/><rect class="cu2" x="44.9" y="181" width="8.5" height="17" fill="#2dd4bf"/></g></g>
+<text class="m fy" style="animation-delay:4.13s" x="28" y="219" font-size="14" fill="#c9d1d9"><tspan fill="#6e7681">→ </tspan>produtos financeiros na Nexxees · cofundador da KreaKodo</text>
+<g class="ap" style="animation-delay:4.58s"><text class="m" x="28" y="258" font-size="14" fill="#2dd4bf">$</text><rect class="blink" x="44.9" y="245" width="8.5" height="17" fill="#2dd4bf"/></g>
+</svg>
